@@ -1,5 +1,5 @@
 Hi there,  I’m @creizlein aka Smoke 👋 <br>
-I'm a Software Architect & System Engeinieer with a strong background in Networking and System Administration
+I'm a System Architect & Software Engineer with a strong background in Networking and System Administration
 
 - ⚙️ Daily I use: `.sh`, `.py`, `.pl`, `.php`, `.tf`, `.vb`, `.yml`
 - 👀 Interested in Windows.NET, Linux Internals, Kernels, WSL ports, Scripting in General
